@@ -1,3 +1,3 @@
 # Bamazon
 
-![storeFront] (/images/storFront.jpeg)
+![storeFront] (/images/storeFront.jpeg)
